@@ -34,7 +34,7 @@ Autofishing is a tool that was made by me. It will help you fishing in Play toge
   * Resolution: 960x540 (dpi 160) <br />
   ![Resolution](https://github.com/AikoCute-Offical/AutoFish-Playtogether/blob/main/Example/resolution.jpg)
   * You need change language to Vietnamese (Tiếng việt):
-  ![Language](https://github.com/AikoCute-Offical/AutoFish-Playtogether/blob/43640c4002bd3b429d96879d69b928c7e50cd6d1/Example/language.jpg)
+  ![Language](https://github.com/AikoCute-Offical/AutoFish-Playtogether/blob/main/Example/language.jpg)
   * Button: <br />
   ![Button](https://github.com/AikoCute-Offical/AutoFish-Playtogether/blob/main/Example/SetupButton%20.jpg)
   * You need change highest view (zoomless):  <br />
