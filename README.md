@@ -4,14 +4,14 @@ Auto fishing using OpenCV and Win32api.sendmessage
 Autofishing is a tool that was made by me. It will help you fishing in Play together. Let’s take a look of how it works.
 - Detect and meansure the fish shadow
   * Raw image: <br />
- ![Raw](https://github.com/AikoCute-Offical/AutoFish-Playtogether/blob/15603354d42f793cfb709837f59f52e41fdbab1b/Example/raw.jpg)
+ ![Raw](https://github.com/AikoCute-Offical/AutoFish-Playtogether/blob/main/Example/raw.jpg)
   * Preprocess image: <br />
- ![Preprocess](https://github.com/AikoCute-Offical/AutoFish-Playtogether/blob/15603354d42f793cfb709837f59f52e41fdbab1b/Example/preprocess.jpg)
+ ![Preprocess](https://github.com/AikoCute-Offical/AutoFish-Playtogether/blob/main/Example/preprocess.jpg)
   * Result: <br />
- ![Preprocess](https://github.com/AikoCute-Offical/AutoFish-Playtogether/blob/d9713f480f076cedd0e096fb12f2bca80e738e1e/Example/result.jpg)
+ ![Preprocess](https://github.com/AikoCute-Offical/AutoFish-Playtogether/blob/main/Example/result.jpg)
 - Detect exclamation mark when pixel value be changed
   * Exclamation mark: <br />
-  ![Exclamation mark](https://github.com/AikoCute-Offical/AutoFish-Playtogether/blob/d51c0db6280358346cc919181414c7a86f282399/Example/exclamation%20mark.jpg)
+  ![Exclamation mark](https://github.com/AikoCute-Offical/AutoFish-Playtogether/blob/main/Example/exclamation%20mark.jpg)
  ## 2. How to use
   1. Instalation
   - LDPlayer emulator
@@ -32,13 +32,13 @@ Autofishing is a tool that was made by me. It will help you fishing in Play toge
   ```
  3. Setup in emulator :
   * Resolution: 960x540 (dpi 160) <br />
-  ![Resolution](https://github.com/AikoCute-Offical/AutoFish-Playtogether/blob/43640c4002bd3b429d96879d69b928c7e50cd6d1/Example/resolution.jpg)
+  ![Resolution](https://github.com/AikoCute-Offical/AutoFish-Playtogether/blob/main/Example/resolution.jpg)
   * You need change language to Vietnamese (Tiếng việt):
   ![Language](https://github.com/AikoCute-Offical/AutoFish-Playtogether/blob/43640c4002bd3b429d96879d69b928c7e50cd6d1/Example/language.jpg)
   * Button: <br />
-  ![Button](https://github.com/AikoCute-Offical/AutoFish-Playtogether/blob/43640c4002bd3b429d96879d69b928c7e50cd6d1/Example/SetupButton%20.jpg)
+  ![Button](https://github.com/AikoCute-Offical/AutoFish-Playtogether/blob/main/Example/SetupButton%20.jpg)
   * You need change highest view (zoomless):  <br />
-  ![View](https://github.com/AikoCute-Offical/AutoFish-Playtogether/blob/43640c4002bd3b429d96879d69b928c7e50cd6d1/Example/View.jpg)
+  ![View](https://github.com/AikoCute-Offical/AutoFish-Playtogether/blob/main/Example/View.jpg)
  4. Runing file Autofishing.py
 ## 3. Example
-![Example](https://github.com/AikoCute-Offical/AutoFish-Playtogether/blob/43640c4002bd3b429d96879d69b928c7e50cd6d1/Example/Example.gif)
+![Example](https://github.com/AikoCute-Offical/AutoFish-Playtogether/blob/main/Example/Example.gif)
